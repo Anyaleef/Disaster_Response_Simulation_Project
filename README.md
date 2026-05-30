@@ -51,7 +51,9 @@ Python, SimPy, pandas, NumPy, matplotlib, seaborn
 
 
 ###### **How to Run**
-Install the required packages:
-
+Open `disaster_response_simulation.ipynb` in Jupyter Notebook, Google Colab, etc.
+Install the packages listed in `requirements.txt` if needed using:
 ```bash
 pip install -r requirements.txt
+```
+then run each notebook cell from top to bottom.
