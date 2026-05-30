@@ -40,19 +40,18 @@ Python, SimPy, pandas, NumPy, matplotlib, seaborn
 
 
 
-###### **Dataset**
-
-The project uses Los Angeles crime data from 2020–2023.
-
-The raw dataset is not included because of file size and source limitations.
-
-
-
 ###### **Files**
 
-\- `disaster\_response\_simulation.ipynb` - main notebook
+\- `disaster_response_simulation.ipynb` - main notebook
 
 \- `report.pdf` - final project report
 
 \- `requirements.txt` - required Python packages
 
+
+
+###### **How to Run**
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
