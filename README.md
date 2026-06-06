@@ -1,4 +1,4 @@
-# Disaster Response Simulation: Ambulance Allocation
+# Disaster Response Simulation: Ambulance Allocation ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
 This project was completed for the course **Simulation - Modeling, Analysis and Applications**.
 
